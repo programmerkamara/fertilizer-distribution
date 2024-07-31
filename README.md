@@ -76,10 +76,9 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 
 # Farmer Registration Officer:
 <img width="955" alt="D2" src="https://github.com/user-attachments/assets/bea5739a-9551-4086-99bf-27205b6c516c">
-<img width="947" alt="d1" src="https://github.com/user-attachments/assets/e9f0988e-ca72-4cb6-9fff-5c20c98c5cea">
-<img width="960" alt="DDD2" src="https://github.com/user-attachments/assets/3d40be37-5e83-4eb0-8cef-bb9abdd42d76">
 <img width="960" alt="D24" src="https://github.com/user-attachments/assets/69497279-3136-44d1-8d0d-48d7b44d79ff">
 <img width="960" alt="D23" src="https://github.com/user-attachments/assets/1b9c9d29-6eea-496d-b7e3-27295af4d807">
+
 •	 Register farmers at the office, collecting necessary information such as name, contact details, and farm details.
 •	Verify and update farmer details as needed to ensure accuracy in the system.
 
