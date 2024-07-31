@@ -22,16 +22,15 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 
 # HOME PAGE and LOGIN
 <img width="949" alt="Ag" src="https://github.com/user-attachments/assets/ce589248-9b42-457e-922d-14b50266f07c">
-<img width="951" alt="D17" src="https://github.com/user-attachments/assets/daf4a906-3ae6-48ae-8160-8d237c940cb9">
+
+<img width="947" alt="D7" src="https://github.com/user-attachments/assets/89d9377f-56a4-4353-ac12-21badbb856a0">
 
 
 # Functional Requirements Base on User
 # Admin:
 <img width="960" alt="ad1" src="https://github.com/user-attachments/assets/80554719-212a-4752-bbd6-a5f9f0d5c59e">
-<img width="947" alt="D3" src="https://github.com/user-attachments/assets/e29dadcd-3716-4b0c-8209-a16d0d4b1cae">
-<img width="960" alt="D23" src="https://github.com/user-attachments/assets/1b9c9d29-6eea-496d-b7e3-27295af4d807">
+<img width="960" alt="D9" src="https://github.com/user-attachments/assets/70d1dc68-3915-49be-8dfa-6640b0d8e9f0">
 <img width="960" alt="AD2" src="https://github.com/user-attachments/assets/2d23e6a7-2c2a-4991-be81-eb1264eb01f4">
-<img width="960<img width="949" alt="DDD7" src="https://github.com/user-attachments/assets/8e348439-2d91-48dd-b8d9-b29def807a23">
 <img width="947" alt="ADD2" src="https://github.com/user-attachments/assets/4c359faa-e19d-4ca7-ae44-32acdc80e853">
 <img width="958" alt="Add1" src="https://github.com/user-attachments/assets/d343c323-af3e-4e5f-a10e-d871e6999c01">
 
@@ -42,15 +41,15 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 •	 Configure system settings and preferences according to organizational requirements.
 
 # Director of Agriculture:
-<img width="960" alt="D9" src="https://github.com/user-attachments/assets/70d1dc68-3915-49be-8dfa-6640b0d8e9f0">
-<img width="947" alt="DDD6" src="https://github.com/user-attachments/assets/0135e430-91e9-4b53-86d9-1e99155da520">
+
+<img width="960<img width="949" alt="DDD7" src="https://github.com/user-attachments/assets/8e348439-2d91-48dd-b8d9-b29def807a23">
 <img width="960" alt="DDD5" src="https://github.com/user-attachments/assets/b19b6ff0-f219-4523-9c63-78115ddbbc1e">
 <img width="960" alt="DDD4" src="https://github.com/user-attachments/assets/ee6b3e2d-1add-426b-94d8-32137c3931ad">
 <img width="960" alt="DDD3" src="https://github.com/user-attachments/assets/618cc70d-1c0b-42d3-86e9-59bba6d0f35d">
 <img width="960" alt="DDD2" src="https://github.com/user-attachments/assets/4eaf1425-b217-4af1-8927-300732fd1ec4">
 <img width="960" alt="DDD1" src="https://github.com/user-attachments/assets/2a759c52-f15d-4b6b-9d87-9538c767a1f2">
 <img width="960" alt="DDD8" src="https://github.com/user-attachments/assets/3812c058-7808-4723-8168-6acbc7d318d8">
-
+<img width="947" alt="DDD6" src="https://github.com/user-attachments/assets/0135e430-91e9-4b53-86d9-1e99155da520">
 
 
 •	Review submitted fertilizer applications from farmers.
@@ -80,12 +79,12 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 <img width="947" alt="d1" src="https://github.com/user-attachments/assets/e9f0988e-ca72-4cb6-9fff-5c20c98c5cea">
 <img width="960" alt="DDD2" src="https://github.com/user-attachments/assets/3d40be37-5e83-4eb0-8cef-bb9abdd42d76">
 <img width="960" alt="D24" src="https://github.com/user-attachments/assets/69497279-3136-44d1-8d0d-48d7b44d79ff">
-
+<img width="960" alt="D23" src="https://github.com/user-attachments/assets/1b9c9d29-6eea-496d-b7e3-27295af4d807">
 •	 Register farmers at the office, collecting necessary information such as name, contact details, and farm details.
 •	Verify and update farmer details as needed to ensure accuracy in the system.
 
 # Store Keeper:
-
+<img width="947" alt="D3" src="https://github.com/user-attachments/assets/e29dadcd-3716-4b0c-8209-a16d0d4b1cae">
 <img width="959" alt="D5" src="https://github.com/user-attachments/assets/16139cd4-432a-4b5a-8ab6-c3de2ca78d5f">
 <img width="956" alt="D4" src="https://github.com/user-attachments/assets/cc3fa516-e6c3-42b9-83a0-1b431358d296">
 <img width="947" alt="D3" src="https://github.com/user-attachments/assets/5388719c-be41-4842-ab1e-e5015be23532">
