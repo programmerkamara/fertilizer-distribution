@@ -73,9 +73,11 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 •	 Present the unique code received upon approval at the store to collect fertilizers.
 
 # Farmer Registration Officer:
-<img width="955" alt="D2" src="https://github.com/user-attachments/assets/bea5739a-9551-4086-99bf-27205b6c516c">
-<img width="960" alt="D24" src="https://github.com/user-attachments/assets/69497279-3136-44d1-8d0d-48d7b44d79ff">
-<img width="960" alt="D23" src="https://github.com/user-attachments/assets/1b9c9d29-6eea-496d-b7e3-27295af4d807">
+
+<img width="953" alt="D22" src="https://github.com/user-attachments/assets/109e8024-6220-499a-9a31-c3ffd68e88c8">
+<img width="959" alt="D21" src="https://github.com/user-attachments/assets/afb86c00-1473-45e6-b357-a0ada90f7701">
+<img width="947" alt="D20" src="https://github.com/user-attachments/assets/3f65e740-f213-4fef-b374-64bdd7c7dae4">
+<img width="960" alt="D24" src="https://github.com/user-attachments/assets/29c01f88-4f68-4e90-8305-767392a3c416">
 
 •	 Register farmers at the office, collecting necessary information such as name, contact details, and farm details.
 •	Verify and update farmer details as needed to ensure accuracy in the system.
