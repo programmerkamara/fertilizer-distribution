@@ -33,7 +33,7 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 <img width="960" alt="AD2" src="https://github.com/user-attachments/assets/2d23e6a7-2c2a-4991-be81-eb1264eb01f4">
 <img width="947" alt="ADD2" src="https://github.com/user-attachments/assets/4c359faa-e19d-4ca7-ae44-32acdc80e853">
 <img width="958" alt="Add1" src="https://github.com/user-attachments/assets/d343c323-af3e-4e5f-a10e-d871e6999c01">
-
+<img width="959" alt="D30" src="https://github.com/user-attachments/assets/c0d6adf3-cbe9-42b9-a291-790542c6f3ae">
 •	Ability to create, edit, or delete user accounts for the Director of Agriculture, Farmer Registration Officer, and Store Keeper.
 •	Perform regular system maintenance tasks such as backups, updates, and troubleshooting.
 •	 Manage role-based access control to ensure that users have appropriate permissions.
@@ -60,8 +60,6 @@ The Agriculture Store and Inventory Management System for Bombali District is a 
 
 # Farmers:
 <img width="959" alt="D29" src="https://github.com/user-attachments/assets/b3fc478a-19a5-4076-8c7e-b18992bd7ba0">
-<img width="949" alt="Ag" src="https://github.com/user-attachments/assets/f0b9ec27-4ff9-4d91-99e7-d5249b5b1be1">
-<img width="959" alt="D30" src="https://github.com/user-attachments/assets/c0d6adf3-cbe9-42b9-a291-790542c6f3ae">
 <img width="951" alt="D17" src="https://github.com/user-attachments/assets/ad0444ac-74ff-4191-b5d8-50edb16385c4">
 <img width="959" alt="D29" src="https://github.com/user-attachments/assets/5669d4cf-60aa-4e1f-8eaf-302be71f4ea7">
 <img width="960" alt="D28" src="https://github.com/user-attachments/assets/be884ee8-590e-4947-90d4-04aa2b9122c5">
